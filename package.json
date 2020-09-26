@@ -1,0 +1,28 @@
+{
+  "name": "project-employee-manager",
+  "version": "1.0.0",
+  "description": "![gif or image demo](./assets/replace.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node demo_db_connection.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taliavazquez/project-employee-manager.git"
+  },
+  "keywords": [
+    "employees",
+    "manager",
+    "tracker"
+  ],
+  "author": "Talia Vazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taliavazquez/project-employee-manager/issues"
+  },
+  "homepage": "https://github.com/taliavazquez/project-employee-manager#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
