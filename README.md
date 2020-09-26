@@ -70,7 +70,7 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
+<node demo_db_connection.js>
 
 ---
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
