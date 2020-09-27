@@ -1,5 +1,4 @@
-# Your Project Title
-Employee Manager
+# Employee Manager
 
 ## Description
 
